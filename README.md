@@ -1,3 +1,4 @@
 # Demo
 
-some latex $\int x dx$
+Some latex $\int x dx$
+Math $C_t = \varphi S_t + \psi B_t$
